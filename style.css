@@ -1,0 +1,76 @@
+header{
+  background-color: lightblue;
+  padding-bottom: 20px;
+}
+nav {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+  background: none;
+  text-align: center;
+}
+nav ul {
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+}
+nav ul li a {
+display: inline-block;
+padding: 1em 3em;
+border-bottom: 2px solid #fff;
+color: #333;
+text-decoration: none;
+font-size: 16px;
+
+}
+
+
+table, th, td {
+    
+    text-align: center;
+       
+  }
+  table th{
+    padding-bottom: 30px;
+    font-size: 25px;
+  }
+  table td{
+
+    padding-bottom: 30px;
+    
+    border-bottom : 1px solid rgb(74, 74, 74);
+  }
+
+  table {
+    margin: auto;
+  width: 60%;
+  border: 3px solid lightblue;
+  padding: 10px;
+  }
+  .home-img{
+   
+    width: 300px;
+    height: 300px;
+  }
+  .about-img{
+    margin: auto;
+  width: 30%;
+  height: 50%;
+  padding: 50px;
+  padding-left :500px ;
+  }
+
+  .contact-text {
+    margin: auto;
+    width: 60%;
+    border: 3px solid lightblue;
+    padding: 10px;
+    text-align: center;
+  }
+
+  footer{
+    margin: 30px auto;
+      }
+  
